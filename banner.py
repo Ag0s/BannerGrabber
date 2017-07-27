@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 
 # Simple Python Banner Grabber
-# Created by @Viporizer
 
 import socket
 import getopt
